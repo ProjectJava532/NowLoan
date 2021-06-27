@@ -31,6 +31,7 @@ There are two paths to be taken in the development process.One can use choice on
 #Cloud Development Disadvantages
 1.Constant Internet connection.One needs a constant internet connection stream to develop even Android apps on the cloud.This can be costly especially in an area with no wifi where one is forced to pay for cellular connections
 2.IDEs.In this case, I only get to use one IDE which is Visual Cloud editor for free on Google CloudShell.I do not have access to Android Studio on the cloud unless a developer is able to afford a full VM environment on a cloud service provider i.e AWS,Google Engine,Azure,Alibaba Services e.t.c.
+3.Peripheral.Some packages are automatically removed on Google cloudshell.It is up to the developer to find out why or they are forced to fing packages that remain in the cloud machine.
 
 
 # Install instructions CLoudShell
