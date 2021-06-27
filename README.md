@@ -61,3 +61,9 @@ source ~/.zshrc
 sudo apt-get install libc6:i386 libstdc++6:i386
 # aapt
 sudo apt-get install zlib1g:i386
+
+# Build Tools:Allows for building
+
+
+sudo apt-get update
+sudo apt-get install android-sdk-build-tools
