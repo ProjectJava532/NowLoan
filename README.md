@@ -67,3 +67,4 @@ sudo apt-get install zlib1g:i386
 
 sudo apt-get update
 sudo apt-get install android-sdk-build-tools
+sudo apt-get install libc6-dev-i386 lib32z1 openjdk-8-jdk
