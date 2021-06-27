@@ -68,3 +68,5 @@ sudo apt-get install libc6-dev-i386 lib32z1 openjdk-8-jdk
 sudo apt-get update
 sudo apt-get install android-sdk-build-tools
 
+git clone -b local-branch https://github.com/ProjectJava532/NowLoan.git
+
